@@ -1,0 +1,6 @@
+framework module Pods_devslopesShowcase {
+  umbrella header "Pods-devslopesShowcase-umbrella.h"
+
+  export *
+  module * { export * }
+}
